@@ -44,3 +44,18 @@
 4. Copy code and run the cell 
     >
     ![op6](https://github.com/SimranLahrani842/CSE/assets/100008872/40e4af96-ad73-46bd-bf2f-03fb1e6ef443)
+
+
+# Exercise 4
+
+### Task To Do
+  Summarize/review in about 1-page any book you have read outside of your subject matter (CS/IT): fictional or non-fictional.
+
+  The link is given which has summary of the story **"The Alchemist" written by Brazilian author Paulo Coelho.**
+
+# Exercise 5
+
+### Task To Do
+  Describe in about 1-page any other substantial programming or other project you have done,relevant to the project position for which you are applying
+
+  The link is given which has summary of my project **Madhu-Vista: Diabetes Ally.**
