@@ -14,14 +14,16 @@
 ### Screenshots of output
 
 - Strange Pandemic: More Deaths in Ending Year - SLIDE 20
-  <img src="https://github.com/SimranLahrani842/CSE/assets/100008872/e186f81a-515e-46fc-a0ec-dfe13dd716b3" width="100" height="100">
+  >
+  <img src="https://github.com/SimranLahrani842/CSE/assets/100008872/e186f81a-515e-46fc-a0ec-dfe13dd716b3" width="500" height="400">
   
+- Excess Death in Europe - SLIDE 21
+  >
+  <img src="https://github.com/SimranLahrani842/CSE/assets/100008872/4e014eb4-648b-4b0b-8717-bfe00d8eea43" width="500" height="400">
 
 - Excess Death in Europe - SLIDE 21
-  ![op2](https://github.com/SimranLahrani842/CSE/assets/100008872/4e014eb4-648b-4b0b-8717-bfe00d8eea43)
-
-- Excess Death in Europe - SLIDE 21
-  ![op3](https://github.com/SimranLahrani842/CSE/assets/100008872/c2021048-1718-43af-8c5a-d13c719e2c65)
+  >
+  <img src="https://github.com/SimranLahrani842/CSE/assets/100008872/c2021048-1718-43af-8c5a-d13c719e2c65" width="500" height="400">
 
 ### How to run ?
 
